@@ -36,5 +36,5 @@ This is a **basic model**, and there’s room for **optimization**. You can:
 - Use **data augmentation** to enhance dataset quality  
 - Fine-tune with **transfer learning**  
 
-## 🤝 Contributions  
+##  Contributions  
 Feel free to **fork**, **improve**, and **contribute**!  
